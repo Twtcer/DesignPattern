@@ -1,0 +1,14 @@
+E:\GitHubCodes\DesignPattern\Strategy\bin\Debug\netcoreapp2.2\Strategy.deps.json
+E:\GitHubCodes\DesignPattern\Strategy\bin\Debug\netcoreapp2.2\Strategy.runtimeconfig.json
+E:\GitHubCodes\DesignPattern\Strategy\bin\Debug\netcoreapp2.2\Strategy.runtimeconfig.dev.json
+E:\GitHubCodes\DesignPattern\Strategy\bin\Debug\netcoreapp2.2\Strategy.dll
+E:\GitHubCodes\DesignPattern\Strategy\bin\Debug\netcoreapp2.2\Strategy.pdb
+E:\GitHubCodes\DesignPattern\Strategy\obj\Debug\netcoreapp2.2\Strategy.csprojAssemblyReference.cache
+E:\GitHubCodes\DesignPattern\Strategy\obj\Debug\netcoreapp2.2\Strategy.csproj.CoreCompileInputs.cache
+E:\GitHubCodes\DesignPattern\Strategy\obj\Debug\netcoreapp2.2\Strategy.AssemblyInfoInputs.cache
+E:\GitHubCodes\DesignPattern\Strategy\obj\Debug\netcoreapp2.2\Strategy.AssemblyInfo.cs
+E:\GitHubCodes\DesignPattern\Strategy\obj\Debug\netcoreapp2.2\Strategy.dll
+E:\GitHubCodes\DesignPattern\Strategy\obj\Debug\netcoreapp2.2\Strategy.pdb
+E:\GitHubCodes\DesignPattern\Strategy\bin\Debug\netcoreapp2.2\SimpleFactory.dll
+E:\GitHubCodes\DesignPattern\Strategy\bin\Debug\netcoreapp2.2\SimpleFactory.pdb
+E:\GitHubCodes\DesignPattern\Strategy\obj\Debug\netcoreapp2.2\Strategy.csproj.CopyComplete
