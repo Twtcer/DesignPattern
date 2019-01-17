@@ -1,0 +1,4 @@
+{
+    "extensions.closeExtensionDetailsOnViewChange": true,
+    "telemetry.enableCrashReporter": false
+}

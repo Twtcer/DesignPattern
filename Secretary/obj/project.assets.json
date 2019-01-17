@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHubCodes\\DesignPattern\\Secretary\\Secretary.csproj",
-      "projectName": "Secretary",
-      "projectPath": "E:\\GitHubCodes\\DesignPattern\\Secretary\\Secretary.csproj",
+      "projectUniqueName": "E:\\GitHubCodes\\DesignPattern\\Secretary\\Observer.csproj",
+      "projectName": "Observer",
+      "projectPath": "E:\\GitHubCodes\\DesignPattern\\Secretary\\Observer.csproj",
       "packagesPath": "C:\\Users\\maido\\.nuget\\packages\\",
       "outputPath": "E:\\GitHubCodes\\DesignPattern\\Secretary\\obj\\",
       "projectStyle": "PackageReference",

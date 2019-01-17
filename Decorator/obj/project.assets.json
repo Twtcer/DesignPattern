@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHubCodes\\DesignPattern\\DecoratorPattern\\Decorator.csproj",
+      "projectUniqueName": "E:\\GitHubCodes\\DesignPattern\\Decorator\\Decorator.csproj",
       "projectName": "Decorator",
-      "projectPath": "E:\\GitHubCodes\\DesignPattern\\DecoratorPattern\\Decorator.csproj",
+      "projectPath": "E:\\GitHubCodes\\DesignPattern\\Decorator\\Decorator.csproj",
       "packagesPath": "C:\\Users\\maido\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHubCodes\\DesignPattern\\DecoratorPattern\\obj\\",
+      "outputPath": "E:\\GitHubCodes\\DesignPattern\\Decorator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
