@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\GitHubCodes\\DesignPattern\\Strategy\\Strategy.csproj",
+      "projectUniqueName": "E:\\GitHubCodes\\DesignPattern\\Strategy\\Strategy.csproj",
       "projectName": "Strategy",
-      "projectPath": "e:\\GitHubCodes\\DesignPattern\\Strategy\\Strategy.csproj",
+      "projectPath": "E:\\GitHubCodes\\DesignPattern\\Strategy\\Strategy.csproj",
       "packagesPath": "C:\\Users\\maido\\.nuget\\packages\\",
-      "outputPath": "e:\\GitHubCodes\\DesignPattern\\Strategy\\obj\\",
+      "outputPath": "E:\\GitHubCodes\\DesignPattern\\Strategy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -732,8 +732,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "e:\\GitHubCodes\\DesignPattern\\SimpleFactory\\SimpleFactory.csproj": {
-              "projectPath": "e:\\GitHubCodes\\DesignPattern\\SimpleFactory\\SimpleFactory.csproj"
+            "E:\\GitHubCodes\\DesignPattern\\SimpleFactory\\SimpleFactory.csproj": {
+              "projectPath": "E:\\GitHubCodes\\DesignPattern\\SimpleFactory\\SimpleFactory.csproj"
             }
           }
         }
